@@ -1,6 +1,6 @@
 ### 🤗
 
-<<h1 align="center">Olá 👋, Eu sou Letícia Chagas Marques!</h1>
+<h1 align="center">Olá 👋, Eu sou Letícia Chagas Marques!</h1>
 <h3 align="center">Estudo desenvolvimento de páginas web para promover soluções inteligentes no âmbito tecnológico</h3>
 
 - 💻 Atualmente estudo desenvolvimento web na **Trybe**
