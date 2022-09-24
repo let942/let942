@@ -1,4 +1,6 @@
+
 # 💫 Sobre:
+😊 Oi, eu sou Letícia Chagas <br>
 💻 Desenvolvedora Full Stack<br>
 📍 Belo Horizonte, Minas Gerais<br>
 🎒 Atualmente estudo desenvolvimento web na Trybe<br>
@@ -7,7 +9,7 @@
 
 
 ## 🌐 Entre em contato comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leticia-chagas-marques/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leticia-chagas-marques/) 
 
 # 💻 Linguagens e Ferramentas:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -32,7 +34,7 @@
 ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) 
 
 # Testes
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=red)
 ![RTL](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 ![Mocha.js](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
 ![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
