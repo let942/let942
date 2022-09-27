@@ -1,6 +1,8 @@
 
-# 💫 Sobre:
 😊 Oi, eu sou Letícia Chagas <br>
+
+# 💫 Sobre mim:
+
 💻 Desenvolvedora Full Stack<br>
 📍 Belo Horizonte, Minas Gerais<br>
 🎒 Atualmente estudo desenvolvimento web na Trybe<br>
@@ -9,7 +11,9 @@
 
 
 ## 🌐 Entre em contato comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leticia-chagas-marques/) 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LeticiaChagasMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-chagas-marques/)](https://www.linkedin.com/in/leticia-chagas-marques/) 
+[![Gmail Badge](https://img.shields.io/badge/-let942@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@pranjaljain.tech)](mailto:let942@gmail.com)
 
 # 💻 Linguagens e Ferramentas:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -33,17 +37,19 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
 ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) 
 
-# Testes
+# 🌟 Testes
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=red)
 ![RTL](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 ![Mocha.js](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
 ![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
 ![Sinon](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=let942&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=let942&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=let942&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Status:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=let942&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=let942&theme=radical&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=let942&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=let942&icon=0&color=9)](https://visitcount.itsvg.in)
