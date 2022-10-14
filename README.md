@@ -7,7 +7,7 @@
 📍 Belo Horizonte, Minas Gerais<br>
 🎒 Atualmente estudo desenvolvimento web na Trybe<br>
 🐋 Simpatizante do uso do Docker<br>
-🫀 Amante de tecnologia, jogos, música e papelaria<br>
+🫀 Amante de tecnologia, jogos, música, papelaria e arte<br>
 
 
 ## 🌐 Entre em contato comigo:
