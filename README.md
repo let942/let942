@@ -10,7 +10,7 @@
 🫀 Amante de tecnologia, jogos, música, papelaria e arte<br>
 
 
-## 🌐 Entre em contato comigo:
+# 🌐 Entre em contato comigo:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LeticiaChagasMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-chagas-marques/)](https://www.linkedin.com/in/leticia-chagas-marques/) 
 [![Gmail Badge](https://img.shields.io/badge/-let942@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@pranjaljain.tech)](mailto:let942@gmail.com)
