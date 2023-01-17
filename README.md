@@ -9,6 +9,7 @@
 🐋 Simpatizante do uso do Docker<br>
 🫀 Amante de tecnologia, jogos, música, papelaria e arte<br>
 
+Sou graduada em Ciências Biológicas. Possuo ampla experiência em organização de eventos e em atendimento ao público. Criatividade, organização e resolução de problemas são meus principais talentos. No âmbito profissional profissional estou familiarizada com html, css, javaScript, git, gitHub, docker, sql, react, redux e context API. Trabalho para promover com inovação soluções inteligentes no domínio tecnológico e acredito honestamente que relações genuínas com as pessoas são a chave transformar o mundo. 
 
 # 🌐 Entre em contato comigo:
 
