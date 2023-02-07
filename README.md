@@ -51,12 +51,8 @@ Sou graduada em Ciências Biológicas. Criatividade, organização e resolução
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-# 📊 GitHub Status:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=let942&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=let942&theme=radical&hide_border=false"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=let942&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
-</p>
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=let942&icon=0&color=9)](https://visitcount.itsvg.in)
