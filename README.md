@@ -9,7 +9,7 @@
 🐋 Simpatizante do uso do Docker<br>
 🫀 Amante de tecnologia, jogos, música, papelaria e arte<br>
 
-Tenho mestrado e graduação em Ciências Biológicas. Criatividade, organização e resolução de problemas são meus principais talentos. No âmbito profissional profissional estou familiarizada com HTML, CSS, Git/GitHub, NodeJS, JavaScript, TypeScript, Python, React, Redux, Context API e Docker. Trabalho para promover com inovação soluções inteligentes no domínio tecnológico e acredito honestamente que relações genuínas com as pessoas são a chave transformar o mundo. 
+Tenho mestrado e graduação em Ciências Biológicas. Criatividade, organização e resolução de problemas são meus principais talentos. No âmbito profissional estou familiarizada com HTML, CSS, Git/GitHub, NodeJS, JavaScript, TypeScript, Python, React, Redux, Context API e Docker. Trabalho para promover com inovação soluções inteligentes no domínio tecnológico e acredito honestamente que relações genuínas com as pessoas são a chave para transformar o mundo. 
 
 # 🌐 Entre em contato comigo:
 
