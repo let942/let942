@@ -5,7 +5,7 @@
 
 💻 Desenvolvedora Full Stack<br>
 📍 Belo Horizonte, Minas Gerais<br>
-🎒 Atualmente estudo desenvolvimento web na Trybe<br>
+🎒 Formada em desenvolvimento web pela Trybe<br>
 🐋 Simpatizante do uso do Docker<br>
 🫀 Amante de tecnologia, jogos, música, papelaria e arte<br>
 
